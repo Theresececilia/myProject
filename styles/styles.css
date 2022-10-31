@@ -30,7 +30,7 @@ main {
 
 
 p{
-    padding-top: 50px;
+    padding: 24px;
     margin: auto;
     width: 50%;
     font-family: caslon;
@@ -39,4 +39,10 @@ p{
 .main-content {
     padding: 24px;
     margin: auto;
+}
+
+.main-content {
+    color: #171D1C;
+    font-size: large;
+    padding: 0;
 }
