@@ -1,0 +1,29 @@
+html {
+    height: 100vh;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: futura;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #171D1C;
+    margin: 0;
+    height: 100%;
+    color: #EFF1FA;
+}
+
+header,
+footer {
+    padding: 48px;
+    background-color: #4A5240;
+    
+}
+
+main {
+    flex-grow: 1;
+}
