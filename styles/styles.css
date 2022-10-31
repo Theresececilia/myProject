@@ -27,3 +27,16 @@ footer {
 main {
     flex-grow: 1;
 }
+
+
+p{
+    padding-top: 50px;
+    margin: auto;
+    width: 50%;
+    font-family: caslon;
+}
+
+.main-content {
+    padding: 24px;
+    margin: auto;
+}

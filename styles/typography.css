@@ -3,3 +3,9 @@
     src: url('../Fonts/futura/futura_regular.woff') format('woff');
     src: url('../Fonts/futura/futura_regular.woff2') format('woff2');
 }
+
+@font-face {
+    font-family: caslon;
+    src: url('../Fonts/caslon/acaslonpro-regular.woff') format('woff');
+    src: url('../Fonts/caslon/acaslonpro-regular.woff2') format('woff2');
+}
