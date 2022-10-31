@@ -19,18 +19,24 @@ body {
 
 header,
 footer {
-    padding: 48px;
     background-color: #4A5240;
-    
+}
+header{
+    padding: 5%;
+}
+
+footer {
+    padding: 24px;
 }
 
 main {
     flex-grow: 1;
+    padding: 5%;
 }
 
 
 p{
-    padding: 24px;
+    padding: 3%;
     margin: auto;
     width: 50%;
     font-family: caslon;
